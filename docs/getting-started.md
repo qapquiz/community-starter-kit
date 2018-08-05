@@ -35,4 +35,8 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Use can set the name of your bot by pass JSON object to the constructor
+
+createNewBot({
+  name: "Mona"
+}); 
