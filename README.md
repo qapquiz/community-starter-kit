@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This project will help you integrate Line Login to your Unity3d games seamlessly.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Login with Line on Android & iOS
 
 ## Getting started
 
